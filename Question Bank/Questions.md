@@ -1,7 +1,7 @@
-<h1> Questions </h1>
+# Questions
 
-<ol>
-<h4> 23-02-2019 </h4>
-<li> [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)</li>
-<li> [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) </li>
-</ol>
+
+#### 23-02-2019
+1. [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) 
+2. [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) 
+
